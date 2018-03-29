@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">TestApp</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="north">North</string>
+    <string name="south">South</string>
+    <string name="east">East</string>
+    <string name="west">West</string>
     <string name="action_settings">Settings</string>
 </resources>
